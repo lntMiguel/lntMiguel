@@ -12,6 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=PI-Chatbot-Bode-llm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=Quimic-Lab&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=Sistema-de-Vendas-com-Hibernate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=VTRClear&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
