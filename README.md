@@ -1,10 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Aniceto</h1>
 <h3 align="center">Estou estudando para ser Desenvolvedor Back-End</h3>
 
-- 🌱 Estou aprendendo **Desenvolvimento Back-End em Java** 
-- 💬 Pergunte-me sobre **Java, SQL, Docker, Hibernate, Spring** 
+- 🌱 Estou aprendendo **Desenvolvimento Back-End em Java**  
 - 📫Email para contato: **miguelbraz700@gmail.com**
+### Detalhes
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lntMiguel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
