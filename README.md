@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Aniceto</h1>
-<h3 align="center">Estou estudando para ser Desenvolvedor Back-End</h3>
+<h3 align="center">Estou trabalhando como Desenvolvedor Full-Stack</h3>
 
 - 🌱 Estou aprendendo **Desenvolvimento Back-End em Java**  
 - 📫Email para contato: **miguelbraz700@gmail.com**
