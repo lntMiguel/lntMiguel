@@ -1,18 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Aniceto</h1>
-<h3 align="center">Estou trabalhando como Desenvolvedor Full-Stack na R1TI</h3>
-  
+<h3 align="center">Estou trabalhando como Desenvolvedor Full-Stack na R1TI Desenvolvimento de Sistemas</h3>
+
 - 📫Email para contato: **miguelbraz700@gmail.com**
-
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=PI-Chatbot-Bode-llm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=Quimic-Lab&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=Sistema-de-Vendas-com-Hibernate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lntMiguel&repo=VTRClear&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
