@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Aniceto</h1>
 <h3 align="center">Estou trabalhando como Desenvolvedor Full-Stack na R1TI</h3>
-
-- 🌱 Estou aprendendo **Desenvolvimento Back-End em Java**  
+  
 - 📫Email para contato: **miguelbraz700@gmail.com**
 ### Detalhes
 
@@ -43,14 +42,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
       width="40"
       height="40"
     />
